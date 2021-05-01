@@ -5,5 +5,6 @@ public class test2 {
         System.out.println("kkkk");
 
         System.out.println("eeeee");
+        System.out.println("wwwwww");
     }
 }
